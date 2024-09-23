@@ -7,7 +7,7 @@ I’m a passionate self-learner exploring the world of web development and cyber
 ## 🛠 Tech Stack
 
 - **Languages:** HTML, CSS, JavaScript, Python
-- **Frameworks & Libraries:** Bootstrap, Pandas, Next.js (currently learning)
+- **Frameworks & Libraries:** Tailwind, Pandas, Next.js (currently learning)
 - **Tools & Platforms:** GitHub, Vercel, Netlify, VS Code, LaTeX
 - **Skills in Progress:**
   - Backend development
