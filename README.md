@@ -1,4 +1,4 @@
-# Hi, I'm Aske Brask
+# Hi, I'm Aske
 
 I'm studying IT and working on various projects related to web development and cybersecurity. I mainly work with React, and I'm learning GoLang. I also explore tools like GoHugo for simpler documentation sites—it's simple and efficient. Below are some of the projects and technologies I’m currently diving into.
 
